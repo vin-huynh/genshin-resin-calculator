@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/genshin-resin-calculator/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/genshin-resin-calculator/static/js/main.8e26511a.chunk.js",
+    "main.js.map": "/genshin-resin-calculator/static/js/main.8e26511a.chunk.js.map",
+    "runtime-main.js": "/genshin-resin-calculator/static/js/runtime-main.d23e90f3.js",
+    "runtime-main.js.map": "/genshin-resin-calculator/static/js/runtime-main.d23e90f3.js.map",
+    "static/css/2.4548dd11.chunk.css": "/genshin-resin-calculator/static/css/2.4548dd11.chunk.css",
+    "static/js/2.6ddbc68d.chunk.js": "/genshin-resin-calculator/static/js/2.6ddbc68d.chunk.js",
+    "static/js/2.6ddbc68d.chunk.js.map": "/genshin-resin-calculator/static/js/2.6ddbc68d.chunk.js.map",
+    "static/js/3.5be0fdd4.chunk.js": "/genshin-resin-calculator/static/js/3.5be0fdd4.chunk.js",
+    "static/js/3.5be0fdd4.chunk.js.map": "/genshin-resin-calculator/static/js/3.5be0fdd4.chunk.js.map",
+    "index.html": "/genshin-resin-calculator/index.html",
+    "static/css/2.4548dd11.chunk.css.map": "/genshin-resin-calculator/static/css/2.4548dd11.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/genshin-resin-calculator/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.6ddbc68d.chunk.js.LICENSE.txt": "/genshin-resin-calculator/static/js/2.6ddbc68d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d23e90f3.js",
+    "static/css/2.4548dd11.chunk.css",
+    "static/js/2.6ddbc68d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.8e26511a.chunk.js"
+  ]
+}
