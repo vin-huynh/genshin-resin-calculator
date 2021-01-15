@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/genshin-resin-calculator/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/genshin-resin-calculator/static/js/main.8e26511a.chunk.js",
-    "main.js.map": "/genshin-resin-calculator/static/js/main.8e26511a.chunk.js.map",
+    "main.js": "/genshin-resin-calculator/static/js/main.3b7521ec.chunk.js",
+    "main.js.map": "/genshin-resin-calculator/static/js/main.3b7521ec.chunk.js.map",
     "runtime-main.js": "/genshin-resin-calculator/static/js/runtime-main.d23e90f3.js",
     "runtime-main.js.map": "/genshin-resin-calculator/static/js/runtime-main.d23e90f3.js.map",
     "static/css/2.4548dd11.chunk.css": "/genshin-resin-calculator/static/css/2.4548dd11.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.4548dd11.chunk.css",
     "static/js/2.6ddbc68d.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.8e26511a.chunk.js"
+    "static/js/main.3b7521ec.chunk.js"
   ]
 }
